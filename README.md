@@ -1,7 +1,6 @@
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/tensorflow-js/)
+cl[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/tensorflow-js/)
 
 This repo is a companion to the [Machine Learning in JavaScript with TensorFlow.js course](https://frontendmasters.com/courses/tensorflow-js/) on Frontend Masters.
-
 
 # Machine Learning in JavaScript with TensorFlow.js - FrontEnd Masters
 
